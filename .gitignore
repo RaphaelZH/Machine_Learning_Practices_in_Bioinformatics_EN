@@ -1,2 +1,3 @@
-
+venv-bioinformatics/*
 Competency Assessment/data/*
+.DS_Store
